@@ -1,15 +1,15 @@
 {
   "name": "itss_std_javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "課題2",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "buihoangphu98",
   "license": "ISC",
   "preferGlobal": true,
   "bin": {
-    "example": "example.js"
+    "example": "example"
   }
 }
