@@ -9,7 +9,7 @@ use strict';
 // const max = Math.max(...arrN);
 // const min = Math.min(...arrN);
 // const value  = (min+max)/2;
-// console.log(Math.floor(value
+// console.log(Math.floor(value));
 const arr = process.argv.slice(2);
 const startDate = new Date(arr[0],arr[1],arr[2]);
 const endDate   = new Date(arr[3],arr[4],arr[5]);
